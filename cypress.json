@@ -1,6 +1,6 @@
 {
   "baseUrl": "https://twitter-clone-example.herokuapp.com",
-  "viewportWidth": 1200,
+  "viewportWidth": 1201,
   "viewportHeight": 860,
   "env": {
     "apiUrl": "https://twitter-clone-example-backend.herokuapp.com/"
